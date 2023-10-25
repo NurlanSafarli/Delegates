@@ -1,0 +1,14 @@
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\DelegatesTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\DelegatesTask2.AssemblyInfoInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\DelegatesTask2.AssemblyInfo.cs
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\DelegatesTask2.csproj.CoreCompileInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\bin\Debug\net6.0\DelegatesTask2.exe
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\bin\Debug\net6.0\DelegatesTask2.deps.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\bin\Debug\net6.0\DelegatesTask2.runtimeconfig.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\bin\Debug\net6.0\DelegatesTask2.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\bin\Debug\net6.0\DelegatesTask2.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\DelegatesTask2.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\refint\DelegatesTask2.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\DelegatesTask2.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\DelegatesTask2.genruntimeconfig.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\DelegatesTask2\obj\Debug\net6.0\ref\DelegatesTask2.dll

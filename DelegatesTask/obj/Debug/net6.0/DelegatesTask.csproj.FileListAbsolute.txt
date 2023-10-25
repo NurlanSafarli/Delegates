@@ -1,0 +1,14 @@
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\DelegatesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\DelegatesTask.AssemblyInfoInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\DelegatesTask.AssemblyInfo.cs
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\DelegatesTask.csproj.CoreCompileInputs.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\bin\Debug\net6.0\DelegatesTask.exe
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\bin\Debug\net6.0\DelegatesTask.deps.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\bin\Debug\net6.0\DelegatesTask.runtimeconfig.json
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\bin\Debug\net6.0\DelegatesTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\bin\Debug\net6.0\DelegatesTask.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\DelegatesTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\refint\DelegatesTask.dll
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\DelegatesTask.pdb
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\DelegatesTask.genruntimeconfig.cache
+C:\Users\nurla\OneDrive\Desktop\AB202 task\BankConsoleApp\DelegatesTask\obj\Debug\net6.0\ref\DelegatesTask.dll
